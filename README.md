@@ -1,4 +1,4 @@
-#Projeto Post-API
+# Projeto Post-API
 
 ### Requerimentos/Conhecimentos e Tecnologias utilizadas
 
@@ -10,7 +10,6 @@
     (Fonte: https://expressjs.com/)
 * Socket.io   
     (Fonte: https://socket.io/)
-* 
 
 ### Instalação das dependencias:
 #
